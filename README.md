@@ -20,7 +20,7 @@ Created pivot tables and graphing in Excel to visualize campaign outcomes ("succ
 * Approximatley 40% campaign were failed and less than 5% of campaign got cancelled.
 * I could also see the month of May and June has got maximum successful Theater outcomes.
 
-![png](Images/Theater_Outcomes_vs_Launch)
+![Theater Outcome Based on Launch Date](Images/Theater_Outcomes_vs_Launch.PNG)
 
 ### Analysis of Outcomes Based on Goals
 Analysed the data to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. We will need to use a new function, COUNTIFS(), to collect the outcome and goal data for the “plays” subcategory.We have made a line chart based on the above filters.
