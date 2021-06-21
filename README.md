@@ -29,7 +29,7 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 *100% plays campaign failed in the goal range 45000.*
 *There is no cancelled plays campaign.*
 
-![png](Images/Outcomes_vs_Goals
+![Outcomes Based on Goals](Images/Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 
