@@ -39,12 +39,12 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1 ** What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 * There are more than 60% successful Theater campaign.*
 *Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.*
 
-- What can you conclude about the Outcomes based on Goals?
+2 **What can you conclude about the Outcomes based on Goals?**
 
 *There is around 75% of successful plays campaign when the goal is below 5000.*
 *100% plays campaign failed in the goal range 45000.*
