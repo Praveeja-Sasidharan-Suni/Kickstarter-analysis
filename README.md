@@ -4,23 +4,22 @@
 
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset we will visualize campaign outcomes based on their launch dates and their funding goals. We will then submit a written report based on our analysis and the visualizations we are going to create.
 
-Over two billion dollars have been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
-
+Over forty Million dollars have been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. 
 
 ## Purpose
 
 Using Excel,analyze the data of 4115 Kickstarter projects in order to uncover market trends by examining funding processes and success rates.
-Create a line chart from the pivot table to visualize the relationship between outcomes and launch month.Also Create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount and the percentage of successful, failed, or canceled projects.
+Create a line chart from the pivot table to visualize the relationship between outcomes and launch month.Also Create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount and the percentage of successful, failed, or canceled projects for "plays"  subcatagory.
 
 
 
 ## Analysis and Challenges
 
 ### Analysis of Theater Outcomes Based on Launch Date
-Created pivot tables and graphs in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date. Also added a new column named "Years" which will be used for deriving the outcome based on Launch Date.
+Created pivot tables and graphs in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.Added a new column "Years" for this purpose and used the YEAR() function.
 * After analysing the dataset I could conclude that more than 60% Therater campaign was successful. 
 * Approximatley 40% campaign were failed and less than 5% of campaign got cancelled. 
-* I could also see the month of May and June has got maximum successful Theater outcomes. 
+* Also the month of May and June has got maximum successful Theater outcomes. 
 
 ![Theater Outcome Based on Launch Date](Images/Theater_Outcomes_vs_Launch.png)
 
