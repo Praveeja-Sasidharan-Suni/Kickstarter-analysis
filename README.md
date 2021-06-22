@@ -43,12 +43,13 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 * There are more than 60% successful Theater campaign.
 * Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.
+* The gap between successful and failed closes in December (actually intersecting), and failures surpass successes for the 1st time.
 
 2 **What can you conclude about the Outcomes based on Goals?**
 
 * There is around 75% of successful plays campaign when the goal is below 5000.
 * 100% plays campaign failed in the goal range 45000.
-* There is no cancelled plays campaign.
+* There is no cancelled capaign in plays subcatagory.
 
 ### What are some limitations of this dataset?
 
@@ -62,10 +63,10 @@ Lastly, the dataset does not have much information on what donors expect to rece
 
 ### What are some other possible tables and/or graphs that we could create?
 
-1.Table/graph showing successful or failed campaigns based on each Country.
-2.Tables showing the most successful categories/subcategories versus the most unsuccessful categories/subcategories .
-3.Tables showing the descriptive statistics like Mean,median,mode, max etc.
-4.Displays showing the average timelines (how much time companies/organizations have to complete the Kickstarter campaigns) for the most successful and least successful types of programs.
-5.Displays and tables that exclude significant funding goal outliers.
+1 Table/graph showing successful or failed campaigns based on each Country.
+2 Tables showing the most successful categories/subcategories versus the most unsuccessful categories/subcategories .
+3 Tables showing the descriptive statistics like Mean,median,mode, max etc.
+4 Displays showing the average timelines (how much time companies/organizations have to complete the Kickstarter campaigns) for the most successful and least successful types of programs.
+5 Displays and tables that exclude significant funding goal outliers.
 
 
