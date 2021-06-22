@@ -7,7 +7,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 Over two billion dollars have been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
 
-### Purpose
+## Purpose
 
 Using Excel, modify and analyze the data of 4115 Kickstarter projects in order to uncover market trends by examining funding processes and success rates.
 
@@ -17,8 +17,8 @@ Using Excel, modify and analyze the data of 4115 Kickstarter projects in order t
 ### Analysis of Theater Outcomes Based on Launch Date
 Created pivot tables and graphing in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date. Also added a new column named "Years" which will be used for deriving the outcome based on Launch Date.
 * After analysing the dataset I could conclude that more than 60% Therater campaign was successful .*
-* Approximatley 40% campaign were failed and less than 5% of campaign got cancelled.
-* I could also see the month of May and June has got maximum successful Theater outcomes.
+* Approximatley 40% campaign were failed and less than 5% of campaign got cancelled.*
+* I could also see the month of May and June has got maximum successful Theater outcomes.*
 
 ![Theater Outcome Based on Launch Date](Images/Theater_Outcomes_vs_Launch.png)
 
@@ -42,15 +42,15 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 1 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 * There are more than 60% successful Theater campaign.*
-*Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.*
+* Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.*
 
 2 **What can you conclude about the Outcomes based on Goals?**
 
-*There is around 75% of successful plays campaign when the goal is below 5000.*
-*100% plays campaign failed in the goal range 45000.*
-*There is no cancelled plays campaign.*
+* There is around 75% of successful plays campaign when the goal is below 5000.*
+* 100% plays campaign failed in the goal range 45000.*
+* There is no cancelled plays campaign.*
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 Kickstarter was founded in 2009, making it a relatively new company. It might be useful to have data on metrics for consumer preferences or trust in Kickstarter over time.
 
