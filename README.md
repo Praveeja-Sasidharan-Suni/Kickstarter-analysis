@@ -16,18 +16,18 @@ Using Excel, modify and analyze the data of 4115 Kickstarter projects in order t
 
 ### Analysis of Theater Outcomes Based on Launch Date
 Created pivot tables and graphs in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date. Also added a new column named "Years" which will be used for deriving the outcome based on Launch Date.
-* After analysing the dataset I could conclude that more than 60% Therater campaign was successful .*
-* Approximatley 40% campaign were failed and less than 5% of campaign got cancelled.*
-* I could also see the month of May and June has got maximum successful Theater outcomes.*
+* After analysing the dataset I could conclude that more than 60% Therater campaign was successful. *
+* Approximatley 40% campaign were failed and less than 5% of campaign got cancelled. *
+* I could also see the month of May and June has got maximum successful Theater outcomes. *
 
 ![Theater Outcome Based on Launch Date](Images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Analysed the data to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. We will need to use a new function, COUNTIFS(), to collect the outcome and goal data for the “plays” subcategory.We have made a line chart based on the above filters.
-* There is around 75% of successful plays campaign when the goal is below 5000.*
-* There is no successful plays campaign in the goal range 45000-49999.*
-* 100% plays campaign failed in the goal range 45000.*
-* There is no cancelled plays campaign.*
+* There is around 75% of successful plays campaign when the goal is below 5000. *
+* There is no successful plays campaign in the goal range 45000-49999. *
+* 100% plays campaign failed in the goal range 45000. *
+* There is no cancelled plays campaign. *
 
 ![Outcomes Based on Goals](Images/Outcomes_vs_Goals.png)
 
