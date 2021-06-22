@@ -63,10 +63,10 @@ Lastly, the dataset does not have much information on what donors expect to rece
 
 ### What are some other possible tables and/or graphs that we could create?
 
-1 Table/graph showing successful or failed campaigns based on each Country.
-2 Tables showing the most successful categories/subcategories versus the most unsuccessful categories/subcategories .
-3 Tables showing the descriptive statistics like Mean,median,mode, max etc.
-4 Displays showing the average timelines (how much time companies/organizations have to complete the Kickstarter campaigns) for the most successful and least successful types of programs.
-5 Displays and tables that exclude significant funding goal outliers.
+* Table/graph showing successful or failed campaigns based on each Country.
+* Tables showing the most successful categories/subcategories versus the most unsuccessful categories/subcategories .
+* Tables showing the descriptive statistics like Mean,median,mode, max etc.
+* Displays showing the average timelines (how much time companies/organizations have to complete the Kickstarter campaigns) for the most successful and least successful types of programs.
+* Displays and tables that exclude significant funding goal outliers.
 
 
