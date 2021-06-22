@@ -45,10 +45,11 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 * There are more than 60% successful Theater campaign.
 * Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.
-* The gap between successful and failed closes in December (actually intersecting), and failures surpass successes for the 1st time.
+* The gap between successful and failed intersects in December,and failures surpass successes for the 1st time.
 
 2. **What can you conclude about the Outcomes based on Goals?**
 
+* A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%.
 * There is around 75% of successful plays campaign when the goal is below 5000.
 * 100% plays campaign failed in the goal range 45000.
 * There is no cancelled capaign in plays subcatagory.
