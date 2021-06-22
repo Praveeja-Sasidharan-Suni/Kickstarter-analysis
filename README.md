@@ -53,13 +53,13 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 ### What are some limitations of this dataset?
 
-Kickstarter was founded in 2009, making it a relatively new company. It might be useful to have data on metrics for consumer preferences or trust in Kickstarter over time.
+* Kickstarter was founded in 2009, making it a relatively new company. It might be useful to have data on metrics for consumer preferences or trust in Kickstarter over time.
 
-There is evidence that this sample does not fully represent the population of Kickstarter campaigns. For example, the assignment’s instructions mention that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful. Additionally, this sample includes quite a few Theater Kickstarter campaigns, but Kickstarter’s website does not identify Theater as the most common category.
+* There is evidence that this sample does not fully represent the population of Kickstarter campaigns. For example, the assignment’s instructions mention that only a third of Kickstarter campaigns make it through funding with positive outcomes, but this database shows that more than half of the programs selected are successful. Additionally, this sample includes quite a few Theater Kickstarter campaigns, but Kickstarter’s website does not identify Theater as the most common category.
 
-Additionally, there are several outliers in the funding goal/target amounts of money for several categories/subcategories.
+* Additionally, there are several outliers in the funding goal/target amounts of money for several categories/subcategories.
 
-Lastly, the dataset does not have much information on what donors expect to receive in exchange for their donations.
+* Lastly, the dataset does not have much information on what donors expect to receive in exchange for their donations.
 
 ### What are some other possible tables and/or graphs that we could create?
 
