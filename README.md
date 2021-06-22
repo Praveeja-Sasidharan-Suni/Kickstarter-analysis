@@ -9,7 +9,9 @@ Over two billion dollars have been raised using the massively successful crowdfu
 
 ## Purpose
 
-Using Excel, modify and analyze the data of 4115 Kickstarter projects in order to uncover market trends by examining funding processes and success rates.
+Using Excel,analyze the data of 4115 Kickstarter projects in order to uncover market trends by examining funding processes and success rates.
+Create a line chart from the pivot table to visualize the relationship between outcomes and launch month.Also Create a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount and the percentage of successful, failed, or canceled projects.
+
 
 
 ## Analysis and Challenges
@@ -39,13 +41,13 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 ## Results
 
-1 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+1. **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
 * There are more than 60% successful Theater campaign.
 * Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.
 * The gap between successful and failed closes in December (actually intersecting), and failures surpass successes for the 1st time.
 
-2 **What can you conclude about the Outcomes based on Goals?**
+2. **What can you conclude about the Outcomes based on Goals?**
 
 * There is around 75% of successful plays campaign when the goal is below 5000.
 * 100% plays campaign failed in the goal range 45000.
