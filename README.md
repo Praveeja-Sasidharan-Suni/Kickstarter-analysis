@@ -33,22 +33,22 @@ Analysed the data to visualize the percentage of successful, failed, and cancele
 
 ### Challenges and Difficulties Encountered
 
-*Some information about the data set was hard to understand like the columns backers_count,Spotlight etc.*
-*In the data sheet,"outcomes based on Goals",the goal amount 50000 was not included to count with the filter criteria which disturbed the data integrity. 
+* Some informations about the data set was hard to understand like the columns backers_count,Spotlight etc.
+* In the data sheet,"outcomes based on Goals",the goal amount 50000 was not included to count with the filter criteria which disturbed the data integrity. 
 
 
 ## Results
 
 1 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
-* There are more than 60% successful Theater campaign.*
-* Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.*
+* There are more than 60% successful Theater campaign.
+* Theater is by far the most prevalent catagory which got maximum successful outout in the month of May.
 
 2 **What can you conclude about the Outcomes based on Goals?**
 
-* There is around 75% of successful plays campaign when the goal is below 5000.*
-* 100% plays campaign failed in the goal range 45000.*
-* There is no cancelled plays campaign.*
+* There is around 75% of successful plays campaign when the goal is below 5000.
+* 100% plays campaign failed in the goal range 45000.
+* There is no cancelled plays campaign.
 
 ### What are some limitations of this dataset?
 
@@ -60,7 +60,7 @@ Additionally, there are several outliers in the funding goal/target amounts of m
 
 Lastly, the dataset does not have much information on what donors expect to receive in exchange for their donations.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 
 1.Table/graph showing successful or failed campaigns based on each Country.
 2.Tables showing the most successful categories/subcategories versus the most unsuccessful categories/subcategories .
